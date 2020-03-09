@@ -312,6 +312,10 @@ hr {
 .boton-2 img {
     height: 16px;
 }
+
+.boton a , .boton-2 a , .boton2 a {
+    text-decoration: none;
+}
 /*Plan 3*/
 
 .boton2 {
@@ -456,6 +460,10 @@ p {
 
 .container6-1 img{
     height: 16px;
+}
+
+.container6-1 a {
+    text-decoration: none;
 }
 
 .cuadro1 {
