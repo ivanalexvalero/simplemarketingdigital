@@ -174,8 +174,8 @@ h4 {
 .ventana2 h1{
     color: #161619;
     text-align: center;
-    font-size: 40px;
-    margin-top: 5px;
+    font-size: 20px;
+    margin-top: 20px;
 }
 
 .ventana3 {
@@ -215,6 +215,10 @@ hr {
 
 .boton img {
     height: 16px;
+}
+
+.color {
+    color: #fffff8;
 }
 
 /*Plan 2*/
@@ -269,8 +273,8 @@ hr {
 .ventana2-2 h1{
     color: #fffff8;
     text-align: center;
-    font-size: 40px;
-    margin-top: 5px;
+    font-size: 20px;
+    margin-top: 20px;
 }
 
 .ventana3-2 {
